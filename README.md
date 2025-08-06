@@ -77,7 +77,6 @@ We focus on three strategies:
 
 - Out-of-sample validation
 - Apply strategy to crypto pairs or sector indices
-- Integrate **chaos-based regime filters** (Lyapunov exponents)
 - Refine signal generation using ML or HMM models
 ---
 
