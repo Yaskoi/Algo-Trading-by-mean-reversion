@@ -23,7 +23,7 @@ We focus on three strategies:
 
 ## 🔧 Tech Stack
 
-- **Language:** Python 3.10+
+- **Language:** Python 3.13
 - **Main Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `statsmodels`, `yfinance`, `ysk_quantlib`
 - **Environment:** Jupyter Notebook / VS Code
 
